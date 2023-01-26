@@ -1,0 +1,195 @@
+:root{
+    --text-back:rgb(144, 204, 222);
+    --line: rgb(80, 77, 77);
+    --header_2grey:rgb(46, 92, 107);
+    --workcolor:rgb(183, 227, 252); 
+}
+
+.header {
+    display: grid;
+    background-color: rgb(55, 55, 52);
+    padding: 15px 5px 10px 0;
+    grid-template-columns: 36% 1fr;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 150%;
+    background-color:var(--text-back);  
+    max-width: max-content;
+    padding: 5px 15px 5px 50px;
+    font-weight: 900;
+}
+
+.navlist {
+    display: flex;
+    justify-content: end;
+}
+
+.navlist li {   
+    padding: 0 20px 0 0;   
+    border-bottom: 2em;
+}
+
+.navlist li a {
+    transition: all 0.3s ease 0s;
+    color: var(--text-back);
+}
+
+.navlist li a:hover {
+    color: rgb(1, 195, 244);
+}
+
+.hero {
+    background-color:rgb(76, 74, 72);
+    background-image: url(../images/coding.jpg);
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-size: cover;
+}
+
+.hero_h2 {
+    width: max-content;
+    position: relative;
+    background-color: var(--text-back);
+    float: right;
+    margin-top: -3.5em;
+    padding: 10px;
+}
+
+.img{
+    width: 100px;
+    margin-top: -500px;
+}
+
+/* Define a grid container for the main sections of the page */
+.container {
+    display: grid;
+    padding: 2rem 3rem 1rem 5rem;
+    grid-template-columns: 20% 1fr;
+    gap: 1.5rem;
+}
+
+/* The headers of the main content, they are grid items as defined above */
+.content-header {
+    padding-right: 0.5rem;
+    color: var(--header_2grey);
+    border-right:5px solid var(--line);
+    font-size: 1.5rem;
+    text-align: end;
+    font-weight: 700;
+}
+
+/* To make it like the demo more */
+.content:nth-of-type(2){
+    font-size: 0.9rem;
+    padding-bottom: 1rem;
+}
+
+.content a{
+    text-decoration: none;
+    color: var(--line);
+}
+
+.content-a:hover {
+   /* box-shadow: 3px 3px lightblue; */
+   transition: background-color 0.5s
+
+}
+
+.content .content-a {
+    background-color: var(--workcolor);
+    border: 5px solid var(--text-back);
+    background-size: contain;
+}
+
+.content-a .description {
+    background-color: var(--text-back);
+    max-width: max-content;
+    text-decoration: none;
+    margin-top: 100px;
+    padding: 10px;
+    font-weight: 800;
+}
+
+.content-a .description span {
+    font-weight: 300;
+    font-size: 0.5em;
+}
+
+.content-s{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+.content1{
+    grid-column: 1 / 3;
+    background-image: url(../images/surf.png);
+    padding: 190px 0px 20px 0;
+}
+
+
+.content2 {
+    background-image: url(../images/led.png);
+}
+
+.content3 {
+    background-image: url(../images/calculator.png);
+}
+
+.content4{
+    background-image: url(../images/puzzle.png);
+}
+
+.content5{
+    background-image: url(../images/run.png);
+}
+
+div .list{
+    display: grid;
+    align-items: center;
+}
+
+.contactMe {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contactMe li a{ 
+    color: var(--header_2grey);
+}
+
+@media only screen and (max-width:800px) {
+    .header h1, .navlist, .hero_h2 {
+        font-size: 0.7em;
+    }    
+    .container{
+        grid-template-columns: 1fr;
+    }
+    .content-a:nth-of-type(1){
+        grid-column: auto;
+        padding-top: 0px;
+    }
+
+    .content{
+        grid-template-columns: 1fr;
+    }
+   
+    .contactMe {
+        display: flex;
+        flex-direction: column;
+        text-align: end;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .header h1, .navlist {
+        font-size: 0.5em;
+    }    
+
+    .Puzzels {
+        font-size: 0.8em;
+    }
+}
+
