@@ -6,13 +6,14 @@ Use Grid as main frame and the Work Section, use flex-box on other sections.
 ## Functions
 
 All navigation button works and guide to the related sections.
+
 Profile name, photo and "Resume" button go to a resume which opens in a new tab.
 
+Contact information as required, phone number, email address and Github are functional when click. Fake links to Twitter and Stopify.
 
+Fake links to sections in the Work experience part.
 
-
-
-
+Adjust font sizes and layout in small screens.
 
 
 
