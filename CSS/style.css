@@ -19,7 +19,11 @@
     max-width: max-content;
     padding: 5px 15px 5px 50px;
     font-weight: 900;
+}
+
+.header h1 a{
     text-decoration: none;
+    color: var(--header_2grey);
 }
 
 .navlist {
