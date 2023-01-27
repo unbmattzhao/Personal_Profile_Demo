@@ -5,7 +5,8 @@ Use Grid as main frame and the Work Section, use flex-box on other sections.
 
 ## Functions
 
-### 
+All navigation button works and guide to the related sections.
+Profile name, photo and "Resume" button go to a resume which opens in a new tab.
 
 
 
@@ -15,6 +16,9 @@ Use Grid as main frame and the Work Section, use flex-box on other sections.
 
 
 
+
+
+# Appendix
 
 ## User Story
 
