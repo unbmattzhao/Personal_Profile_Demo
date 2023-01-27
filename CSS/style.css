@@ -92,7 +92,7 @@
 }
 
 .content-a:hover {
-   /* box-shadow: 3px 3px lightblue; */
+   box-shadow: 3px 3px lightblue;
    transition: background-color 0.5s
 
 }
