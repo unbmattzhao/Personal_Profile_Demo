@@ -145,6 +145,14 @@
     background-image: url(../images/run.png);
 }
 
+.content-a{
+    opacity: 0.5;
+}
+
+.content-a:hover{
+    opacity: 1;
+}
+
 div .list{
     display: grid;
     align-items: center;
