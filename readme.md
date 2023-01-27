@@ -1,6 +1,11 @@
 # Introduction to My Portfolio Page
 
+## Layout
+Use Grid as main frame and the Work Section, use flex-box on other sections.
 
+## Functions
+
+### 
 
 
 
