@@ -22,7 +22,9 @@ Adjust font sizes and layout in small screens.
 
 I uploaded my assignment link via Github website, I felt at least for now, it seems to be more convenient for me. 
 
-However, after reading the comments on my week-one's I realized it was more 
+However, after reading the comments on my week-one's I realized it was more practical for programmers to use Git to manage the repos and the benefit was obvious. It's kind of mind-set changing for me.
+
+I set up this branch and submit the changes made on local machine via Git, not only to share with you what I have learnt about Git / Github, also to share with you my understanding on my learning process.
 
 
 # Appendix
