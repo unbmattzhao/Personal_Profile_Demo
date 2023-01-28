@@ -29,6 +29,17 @@ I set up this branch and submit the changes made on local machine via Git, not o
 
 # === Some feedback on Week-one's assignmet ===
 
+I would like to give more comments on week-one's grading comments.
+### Readme file
+
+#### A readme file is required to have a description, a screenshot, and the deployed website link
+
+I did not pay too much attention to the readme file requirement, good to know it. I did provided a screenshot on my assignment file but it was an indenpendent image. 
+
+I revised my README.md on week-two's assignment, which is in this file, as shown above. I submitted my assignment in the main branch and now it past due so I would not change anything in the main branch before grading.
+
+
+
 # Appendix
 
 ## User Story
