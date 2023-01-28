@@ -16,8 +16,13 @@ Fake links to sections in the Work experience part.
 Adjust font sizes and layout in small screens.
 
 
-#=========Below is some comments after I submitted this weeks' assignment========
+#=========Below is some comments after I submitted week-two's0 assignment========
 
+## The use of Github
+
+I uploaded my assignment link via Github website, I felt at least for now, it seems to be more convenient for me. 
+
+However, after reading the comments on my week-one's I realized it was more 
 
 
 # Appendix
