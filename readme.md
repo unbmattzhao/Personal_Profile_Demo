@@ -16,9 +16,9 @@ Fake links to sections in the Work experience part.
 Adjust font sizes and layout in small screens.
 
 
-#=========Below is some comments after I submitted week-two's0 assignment========
+# =========Below is some comments after I submitted week-two's assignment========
 
-## The use of Github
+## The use of Github 
 
 I uploaded my assignment link via Github website, I felt at least for now, it seemed to be more convenient for me. 
 
@@ -26,6 +26,8 @@ However, after reading the comments on my week-one's I realized it was more prac
 
 I set up this branch and submit the changes made on local machine via Git, not only to share with you what I have learnt about Git / Github, also to share with you my understanding on my learning process.
 
+
+# ==========Below is my feedback on Weekone's assignmet==============
 
 # Appendix
 
