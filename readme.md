@@ -16,7 +16,8 @@ Fake links to sections in the Work experience part.
 Adjust font sizes and layout in small screens.
 
 
-#=========Below is some comments after I submitted this weeks' assignment========
+#  I added some information to the README.md in the branch after I submitted my assignment links. Please read that as well, I was trying to talk about Git and week-one's assignment.
+
 
 
 
