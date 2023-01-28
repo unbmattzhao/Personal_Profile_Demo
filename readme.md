@@ -1,4 +1,4 @@
-# Introduction to My Portfolio Page
+  # Introduction to My Portfolio Page
 
 ## Layout
 Use Grid as main frame and the Work Section, use flex-box on other sections.
@@ -16,6 +16,7 @@ Fake links to sections in the Work experience part.
 Adjust font sizes and layout in small screens.
 
 
+#=========Below is some comments after I submitted this weeks' assignment========
 
 
 
