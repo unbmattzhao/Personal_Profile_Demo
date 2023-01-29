@@ -1,5 +1,20 @@
   # Introduction to My Portfolio Page
 
+# Description
+This is my profile page where I provided my resume, some progects I created and my contact information. I am a programmer-on-training and are looking for a full stack position.
+
+# Links
+Profile page: https://unbmattzhao.github.io/week2/ 
+Code: https://github.com/unbmattzhao/week2/tree/moreinfo
+
+# Website screenshot
+
+
+
+
+
+
+
 ## Layout
 Use Grid as main frame and the Work Section, use flex-box on other sections.
 
